@@ -47,3 +47,78 @@
 	path = [esx]/esx_cruisecontrol
 	url = git@github.com:Sander0542-FiveM/esx_cruisecontrol.git
 	branch = master
+[submodule "[esx]/esx_datastore"]
+	path = [esx]/esx_datastore
+	url = git@github.com:Sander0542-FiveM/esx_datastore.git
+[submodule "[esx]/esx_dmvschool"]
+	path = [esx]/esx_dmvschool
+	url = git@github.com:Sander0542-FiveM/esx_dmvschool.git
+[submodule "[esx]/esx_drugs"]
+	path = [esx]/esx_drugs
+	url = git@github.com:Sander0542-FiveM/esx_drugs.git
+[submodule "[esx]/esx_extraitems"]
+	path = [esx]/esx_extraitems
+	url = git@github.com:Sander0542-FiveM/esx_extraitems.git
+[submodule "[esx]/esx_gopostaljob"]
+	path = [esx]/esx_gopostaljob
+	url = git@github.com:Sander0542-FiveM/esx_gopostaljob.git
+[submodule "[esx]/esx_identity"]
+	path = [esx]/esx_identity
+	url = git@github.com:Sander0542-FiveM/esx_identity.git
+[submodule "[esx]/esx_joblisting"]
+	path = [esx]/esx_joblisting
+	url = git@github.com:Sander0542-FiveM/esx_joblisting.git
+[submodule "[esx]/esx_jobs"]
+	path = [esx]/esx_jobs
+	url = git@github.com:Sander0542-FiveM/esx_jobs.git
+[submodule "[esx]/esx_license"]
+	path = [esx]/esx_license
+	url = git@github.com:Sander0542-FiveM/esx_license.git
+[submodule "[esx]/esx_licenseshop"]
+	path = [esx]/esx_licenseshop
+	url = git@github.com:Sander0542-FiveM/esx_licenseshop.git
+[submodule "[esx]/esx_lscustom"]
+	path = [esx]/esx_lscustom
+	url = git@github.com:Sander0542-FiveM/esx_lscustom.git
+[submodule "[esx]/esx_mechanicjob"]
+	path = [esx]/esx_mechanicjob
+	url = git@github.com:Sander0542-FiveM/esx_mechanicjob.git
+[submodule "[esx]/esx_phone"]
+	path = [esx]/esx_phone
+	url = git@github.com:Sander0542-FiveM/esx_phone.git
+[submodule "[esx]/esx_policejob"]
+	path = [esx]/esx_policejob
+	url = git@github.com:Sander0542-FiveM/esx_policejob.git
+[submodule "[esx]/esx_property"]
+	path = [esx]/esx_property
+	url = git@github.com:Sander0542-FiveM/esx_property.git
+[submodule "[esx]/esx_realestateagentjob"]
+	path = [esx]/esx_realestateagentjob
+	url = git@github.com:Sander0542-FiveM/esx_realestateagentjob.git
+[submodule "[esx]/esx_service"]
+	path = [esx]/esx_service
+	url = git@github.com:Sander0542-FiveM/esx_service.git
+[submodule "[esx]/esx_shops"]
+	path = [esx]/esx_shops
+	url = git@github.com:Sander0542-FiveM/esx_shops.git
+[submodule "[esx]/esx_skin"]
+	path = [esx]/esx_skin
+	url = git@github.com:Sander0542-FiveM/esx_skin.git
+[submodule "[esx]/esx_society"]
+	path = [esx]/esx_society
+	url = git@github.com:Sander0542-FiveM/esx_society.git
+[submodule "[esx]/esx_status"]
+	path = [esx]/esx_status
+	url = git@github.com:Sander0542-FiveM/esx_status.git
+[submodule "[esx]/esx_taxijob"]
+	path = [esx]/esx_taxijob
+	url = git@github.com:Sander0542-FiveM/esx_taxijob.git
+[submodule "[esx]/esx_truckerjob"]
+	path = [esx]/esx_truckerjob
+	url = git@github.com:Sander0542-FiveM/esx_truckerjob.git
+[submodule "[esx]/esx_vehiclelock"]
+	path = [esx]/esx_vehiclelock
+	url = git@github.com:Sander0542-FiveM/esx_vehiclelock.git
+[submodule "[esx]/instance"]
+	path = [esx]/instance
+	url = git@github.com:Sander0542-FiveM/instance.git
