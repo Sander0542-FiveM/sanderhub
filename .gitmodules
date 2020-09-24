@@ -1,0 +1,36 @@
+[submodule "[esx]/esx_accessories"]
+	path = [esx]/esx_accessories
+	url = git@github.com:Sander0542-FiveM/esx_accessories.git
+[submodule "[esx]/esx_addonaccount"]
+	path = [esx]/esx_addonaccount
+	url = git@github.com:Sander0542-FiveM/esx_addonaccount.git
+[submodule "[esx]/esx_addoninventory"]
+	path = [esx]/esx_addoninventory
+	url = git@github.com:Sander0542-FiveM/esx_addoninventory.git
+[submodule "[esx]/esx_advancedbanking"]
+	path = [esx]/esx_advancedbanking
+	url = git@github.com:Sander0542-FiveM/esx_advancedbanking.git
+[submodule "[esx]/esx_advancedfuel"]
+	path = [esx]/esx_advancedfuel
+	url = git@github.com:Sander0542-FiveM/esx_advancedfuel.git
+[submodule "[esx]/esx_advancedgarage"]
+	path = [esx]/esx_advancedgarage
+	url = git@github.com:Sander0542-FiveM/esx_advancedgarage.git
+[submodule "[esx]/esx_advancedholdup"]
+	path = [esx]/esx_advancedholdup
+	url = git@github.com:Sander0542-FiveM/esx_advancedholdup.git
+[submodule "[esx]/esx_advancedjail"]
+	path = [esx]/esx_advancedjail
+	url = git@github.com:Sander0542-FiveM/esx_advancedjail.git
+[submodule "[esx]/esx_advancedvehicleshop"]
+	path = [esx]/esx_advancedvehicleshop
+	url = git@github.com:Sander0542-FiveM/esx_advancedvehicleshop.git
+[submodule "[esx]/esx_advancedweaponshop"]
+	path = [esx]/esx_advancedweaponshop
+	url = git@github.com:Sander0542-FiveM/esx_advancedweaponshop.git
+[submodule "[esx]/esx_ambulancejob"]
+	path = [esx]/esx_ambulancejob
+	url = git@github.com:Sander0542-FiveM/esx_ambulancejob.git
+[submodule "[esx]/esx_barbershop"]
+	path = [esx]/esx_barbershop
+	url = git@github.com:Sander0542-FiveM/esx_barbershop.git
