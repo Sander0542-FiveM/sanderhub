@@ -34,3 +34,16 @@
 [submodule "[esx]/esx_barbershop"]
 	path = [esx]/esx_barbershop
 	url = git@github.com:Sander0542-FiveM/esx_barbershop.git
+[submodule "[esx]/esx_basicneeds"]
+	path = [esx]/esx_basicneeds
+	url = git@github.com:Sander0542-FiveM/esx_basicneeds.git
+[submodule "[esx]/esx_billing"]
+	path = [esx]/esx_billing
+	url = git@github.com:Sander0542-FiveM/esx_billing.git
+[submodule "[esx]/esx_clotheshop"]
+	path = [esx]/esx_clotheshop
+	url = git@github.com:Sander0542-FiveM/esx_clotheshop.git
+[submodule "[esx]/esx_cruisecontrol"]
+	path = [esx]/esx_cruisecontrol
+	url = git@github.com:Sander0542-FiveM/esx_cruisecontrol.git
+	branch = master
