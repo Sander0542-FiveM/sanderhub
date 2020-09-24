@@ -122,3 +122,12 @@
 [submodule "[esx]/instance"]
 	path = [esx]/instance
 	url = git@github.com:Sander0542-FiveM/instance.git
+[submodule "[esx]/[ui]/esx_menu_default"]
+	path = [esx]/[ui]/esx_menu_default
+	url = git@github.com:Sander0542-FiveM/esx_menu_default.git
+[submodule "[esx]/[ui]/esx_menu_dialog"]
+	path = [esx]/[ui]/esx_menu_dialog
+	url = git@github.com:Sander0542-FiveM/esx_menu_dialog.git
+[submodule "[esx]/[ui]/esx_menu_list"]
+	path = [esx]/[ui]/esx_menu_list
+	url = git@github.com:Sander0542-FiveM/esx_menu_list.git
