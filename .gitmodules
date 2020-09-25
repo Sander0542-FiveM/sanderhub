@@ -150,3 +150,6 @@
 [submodule "[esx]/es_wsync"]
 	path = [esx]/es_wsync
 	url = git@github.com:Sander0542-FiveM/es_wsync.git
+[submodule "[essential]/mysql-async"]
+	path = [essential]/mysql-async
+	url = git@github.com:brouznouf/fivem-mysql-async.git
