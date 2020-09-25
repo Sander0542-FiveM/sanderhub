@@ -135,9 +135,6 @@
 	path = [essential]/es_extended
 	url = git@github.com:Sander0542-FiveM/es_extended.git
 	branch = legacy
-[submodule "[helpers]/fivem-mysql-async"]
-	path = [helpers]/fivem-mysql-async
-	url = https://github.com/brouznouf/fivem-mysql-async.git
 [submodule "[helpers]/async"]
 	path = [helpers]/async
 	url = git@github.com:esx-framework/async.git
