@@ -153,3 +153,6 @@
 [submodule "[helpers]/mysql-async"]
 	path = [helpers]/mysql-async
 	url = git@github.com:brouznouf/fivem-mysql-async.git
+[submodule "[esx]/esx_cinema"]
+	path = [esx]/esx_cinema
+	url = git@github.com:Sander0542-FiveM/esx_cinema.git
