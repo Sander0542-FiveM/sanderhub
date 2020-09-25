@@ -150,3 +150,6 @@
 [submodule "[essential]/essentialmode"]
 	path = [essential]/essentialmode
 	url = git@github.com:Sander0542-FiveM/essentialmode.git
+[submodule "[esx]/es_wsync"]
+	path = [esx]/es_wsync
+	url = git@github.com:Sander0542-FiveM/es_wsync.git
