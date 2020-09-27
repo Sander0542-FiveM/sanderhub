@@ -156,3 +156,6 @@
 [submodule "[esx]/esx_cinema"]
 	path = [esx]/esx_cinema
 	url = git@github.com:Sander0542-FiveM/esx_cinema.git
+[submodule "[ipl]/bob74_ipl"]
+	path = [ipl]/bob74_ipl
+	url = git@github.com:Sander0542-FiveM/bob74_ipl.git
