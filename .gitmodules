@@ -159,3 +159,6 @@
 [submodule "[ipl]/bob74_ipl"]
 	path = [ipl]/bob74_ipl
 	url = git@github.com:Sander0542-FiveM/bob74_ipl.git
+[submodule "[extras]/realistic-vehicle-failure"]
+	path = [extras]/realistic-vehicle-failure
+	url = git@github.com:Sander0542-FiveM/realistic-vehicle-failure.git
