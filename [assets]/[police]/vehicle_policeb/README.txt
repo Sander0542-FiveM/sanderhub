@@ -1,0 +1,1 @@
+https://nl.gta5-mods.com/vehicles/politie-motor-dutch-police-bike-els-i-reflective-livery
