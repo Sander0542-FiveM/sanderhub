@@ -165,3 +165,6 @@
 [submodule "[esx]/esx_np_skinshop_v2"]
 	path = [esx]/esx_np_skinshop_v2
 	url = git@github.com:Sander0542-FiveM/esx_np_skinshop_v2.git
+[submodule "[esx]/esx_newaccessories"]
+	path = [esx]/esx_newaccessories
+	url = git@github.com:Sander0542-FiveM/esx_newaccessories.git
