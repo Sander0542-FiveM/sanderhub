@@ -162,3 +162,6 @@
 [submodule "[extras]/realistic-vehicle-failure"]
 	path = [extras]/realistic-vehicle-failure
 	url = git@github.com:Sander0542-FiveM/realistic-vehicle-failure.git
+[submodule "[esx]/esx_np_skinshop_v2"]
+	path = [esx]/esx_np_skinshop_v2
+	url = git@github.com:Sander0542-FiveM/esx_np_skinshop_v2.git
