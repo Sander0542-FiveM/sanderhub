@@ -168,3 +168,6 @@
 [submodule "[esx]/esx_newaccessories"]
 	path = [esx]/esx_newaccessories
 	url = git@github.com:Sander0542-FiveM/esx_newaccessories.git
+[submodule "[admin]/EasyAdmin"]
+	path = [admin]/EasyAdmin
+	url = git@github.com:Sander0542-FiveM/EasyAdmin.git
